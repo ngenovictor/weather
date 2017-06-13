@@ -1,0 +1,13 @@
+{
+  "coord":{"lon":36.07,"lat":-0.28},
+  "weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"02d"}],
+  "base":"stations",
+  "main":{"temp":283.53,"pressure":818.13,"humidity":95,"temp_min":283.53,"temp_max":283.53,"sea_level":1025.16,"grnd_level":818.13},
+  "wind":{"speed":1.61,"deg":178.503},
+  "clouds":{"all":8},
+  "dt":1497327240,
+  "sys":{"message":0.0031,"country":"KE","sunrise":1497324759,"sunset":1497368343},
+  "id":184622,
+  "name":"Nakuru",
+  "cod":200
+}
